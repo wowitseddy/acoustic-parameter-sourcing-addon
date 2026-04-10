@@ -1,5 +1,13 @@
 # Acoustic Parameter Sourcing Add-on
 
+## AI Disclosure
+
+The original concepts, direction, and problem framing for this repository are Devin Edwards' work.
+
+This repository was partially scaffolded, edited, or reorganized with AI assistance through GitHub Copilot using GPT-5.4. Some AI-assisted changes may reflect poor orchestration, oversimplified framing, or safety-constrained wording that does not fully represent the author's intended technical direction.
+
+Treat AI-written sections as support material requiring human review, not as the source of the underlying ideas.
+
 This draft repository is a rapid-prototyping add-on for acoustic parameter device scaffolding and related prefab hardware planning.
 
 See `ROADMAP.md` for next technical milestones and `docs/PLANNING_BOUNDARIES.md` for interpretation boundaries on example catalogs and generated planning artifacts.
