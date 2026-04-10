@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "acoustic-parameter-sourcing-addon"
+version = "0.1.0"
+description = "Rapid sourcing and fallback fabrication planning for acoustic parameter hardware prototypes"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+acoustic-sourcing = "acoustic_parameter_sourcing_addon.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

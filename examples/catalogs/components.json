@@ -1,0 +1,48 @@
+[
+  {
+    "category": "sensor",
+    "part_number": "BME-MICRO-THERM-001",
+    "vendor": "Prototype Sensor Works",
+    "unit_cost_usd": 18.4,
+    "diameter_mm": 0.95,
+    "thickness_mm": 0.2,
+    "tags": ["thermal", "micro", "prototype"],
+    "environments": ["bme_incubator", "bench"],
+    "notes": "Micro thermal sensor for constrained envelopes."
+  },
+  {
+    "category": "sensor",
+    "part_number": "BME-AUDIO-CAP-004",
+    "vendor": "Acoustic Labs Supply",
+    "unit_cost_usd": 9.75,
+    "diameter_mm": 1.4,
+    "thickness_mm": 0.35,
+    "tags": ["acoustic", "capacitive", "microphone"],
+    "environments": ["bme_incubator", "clean_enclosure"],
+    "notes": "Capacitive acoustic pickup for small incubator rigs."
+  },
+  {
+    "category": "peripheral",
+    "part_number": "EDGE-CONNECT-020",
+    "vendor": "Peripheral Matrix",
+    "unit_cost_usd": 3.2,
+    "length_mm": 6.0,
+    "width_mm": 2.4,
+    "height_mm": 1.2,
+    "tags": ["connector", "board-edge"],
+    "environments": ["bench"],
+    "notes": "Compact board-edge connector for quick prototype swapping."
+  },
+  {
+    "category": "pcb",
+    "part_number": "FLEX-RIG-003",
+    "vendor": "Rapid PCB Fab",
+    "unit_cost_usd": 24.0,
+    "length_mm": 20.0,
+    "width_mm": 8.0,
+    "thickness_mm": 0.12,
+    "tags": ["flex", "prototype", "dense-routing"],
+    "environments": ["bme_incubator", "bench"],
+    "notes": "Flexible prototype board for tight acoustic rigs."
+  }
+]

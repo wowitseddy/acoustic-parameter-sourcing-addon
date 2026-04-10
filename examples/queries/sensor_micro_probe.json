@@ -1,0 +1,9 @@
+{
+  "category": "sensor",
+  "target_circumference_mm": 0.003,
+  "max_unit_cost_usd": 50,
+  "required_tags": ["micro"],
+  "required_environments": ["bme_incubator"],
+  "quantity": 4,
+  "notes": "Draft query for an extremely constrained incubator-phase micro sensor envelope."
+}
