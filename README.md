@@ -2,6 +2,8 @@
 
 This draft repository is a rapid-prototyping add-on for acoustic parameter device scaffolding and related prefab hardware planning.
 
+See `ROADMAP.md` for next technical milestones and `docs/PLANNING_BOUNDARIES.md` for interpretation boundaries on example catalogs and generated planning artifacts.
+
 The immediate goal is to answer two questions quickly during early test-phase design:
 
 - What off-the-shelf sensors, peripherals, and PCB options meet the physical and environmental constraints for a prototype or BME incubator test?
@@ -65,6 +67,8 @@ The tool writes:
 - `matches.json`: ranked component matches
 - `fallback_manifest.json`: in-house material estimate if no match exists
 - `report.md`: human-readable sourcing summary
+
+These outputs are planning artifacts for early-stage sourcing and fallback fabrication review. They are not supplier commitments or manufacturing quotes.
 
 ## Current assumptions
 

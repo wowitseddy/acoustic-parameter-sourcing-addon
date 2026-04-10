@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 src/acoustic_parameter_sourcing_addon/__init__.py
@@ -9,4 +10,6 @@ src/acoustic_parameter_sourcing_addon.egg-info/PKG-INFO
 src/acoustic_parameter_sourcing_addon.egg-info/SOURCES.txt
 src/acoustic_parameter_sourcing_addon.egg-info/dependency_links.txt
 src/acoustic_parameter_sourcing_addon.egg-info/entry_points.txt
+src/acoustic_parameter_sourcing_addon.egg-info/requires.txt
 src/acoustic_parameter_sourcing_addon.egg-info/top_level.txt
+tests/test_smoke.py
